@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853829300850",
+    "project_id": "new-travel-app-a8441",
+    "storage_bucket": "new-travel-app-a8441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853829300850:android:aec5a4de275dd556b408eb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_new1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HtQKXyW5hs7VGYTVYlA-ZBBU1ZI4ZNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
